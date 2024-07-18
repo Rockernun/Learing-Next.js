@@ -1,13 +1,13 @@
 import React from "react";
 
 export const metadata = {
-  title: "About Us",
+  title: "Home",
 };
 
-export default function AboutUs() {
+export default function Home() {
   return (
     <div>
-      <h1>This is About Us Page!</h1>
+      <h1>Hello, Next!</h1>
     </div>
   );
 }
